@@ -1,6 +1,6 @@
-# Personal Portfolio
+# Software Developer Resume Website
 
-Dummy portfolio created as a part of ChaiCode WebDev Cohort 2026 assignment.
+Dummy resume/portfolio website created as a part of ChaiCode WebDev Cohort 2026 assignment.
 
 ## Instruction for Setup & Uses
 
